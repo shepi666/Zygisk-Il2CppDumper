@@ -1,1 +1,3 @@
 <manifest package="zygisk.il2cppdumper" />
+<!-- 修改或删除您共享存储空间中的内容 -->
+<uses-permission android:name="android.permission.
